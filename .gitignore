@@ -35,3 +35,5 @@ data/
 
 # Kaggle API files
 kaggle.json
+
+catboost_info/
